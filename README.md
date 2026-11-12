@@ -50,7 +50,7 @@ A Python-based calendar application designed to help users organize and manage t
 
 ## About
 
-Talaarawan is a personal programming project developed to practice Python programming, event management, and file handling.
+Talaarawan is a programming project requirement during my undergraduate course, developed to practice Python programming, event management, and file handling.
 
 ---
 
